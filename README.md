@@ -1,4 +1,4 @@
-# Hi there, I'm Koma 👋
+# About Me
 **Physics Student @ University of Tsukuba**<br>
 **Data Engineer @ Toshin Research Institute**<br>
 **Crypto Trading Bot Developer @ Freelance**
