@@ -1,5 +1,5 @@
 # About Me
-**Physics Student @ University of Tsukuba**<br>
+**Physics Graduate Student @ University of Tsukuba**<br>
 **Crypto Trading Bot Developer @ Freelance**<br>
 **Data Engineer @ Somewhere**
 
