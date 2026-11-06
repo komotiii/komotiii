@@ -1,6 +1,6 @@
 # About Me
 **Physics Graduate Student @ University of Tsukuba**<br>
-**Crypto Trading Bot Developer @ Freelance**<br>
+**Web App Development @ Freelance**<br>
 **Data Engineer @ Toshin research institute**
 
 🌐 **Homepage & Detailed Portfolio:** [komotiii.github.io](https://komotiii.github.io/)
